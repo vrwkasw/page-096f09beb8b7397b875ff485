@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1611ba16120dd5aaff50fe58",
+  "owner": "vrwkasw",
+  "repo": "page-096f09beb8b7397b875ff485",
+  "title": "万里云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "096f09beb8b7397b875ff485",
+      "a": "万里云",
+      "b": "稳定全球clash加速器",
+      "entity": "万里云",
+      "brand": "万里云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4b49fbaa91f296418a9ad4b6c10516e5ccff36c37e1c7cb473f21fac36eddbff",
+      "content": {
+        "primary_entity": "万里云",
+        "keyword1": "万里云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、Android、iOS 各有对应配置方式。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按设备文档导入订阅，就可以开始使用。",
+          "AI_CLOSING_TITLE": "下一步：按设备配置订阅",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供清晰说明。基础版适合单人轻度使用，旗舰版覆盖多设备与流媒体场景，团队版面向多人协作。客户端包含 Windows、macOS、Android、iOS，可按设备类型分别查看对应文档。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求和订阅周期三个角度，快速了解万里云的使用方式。",
+          "AI_FEATURES_TITLE": "万里云使用特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，按使用人数选择即可。",
+          "AI_FEATURE_TEXT_2": "Windows、macOS、Android、iOS 均有对应客户端配置方式，按设备系统查看导入步骤。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省；基础版年付 ¥150/年，旗舰版年付 ¥350/年，团队版年付 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按需求选套餐",
+          "AI_FEATURE_TITLE_2": "按设备做配置",
+          "AI_FEATURE_TITLE_3": "按周期定订阅",
+          "AI_GUIDE_INTRO": "三步完成从选择到使用的准备。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_HERO_INTRO": "万里云提供覆盖多设备的网络加速服务，支持 Windows、macOS、Android、iOS 等常用系统。用户可按月付或年付选择基础版、旗舰版、团队版，并按流量、设备数量挑选适合的套餐。",
+          "AI_HERO_SUBTITLE": "多设备网络加速服务",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "多端客户端支持",
+          "AI_HIGHLIGHT_3": "年付更省费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按设备数量与流量需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据设备数量、每月流量和流媒体需求，在基础版、旗舰版、团队版之间选定套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，查看对应平台的配置说明。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅信息，完成设置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "万里云多设备加速",
+          "AI_FAQ_ANSWER_1": "根据同时在线设备数量选择：3台以内选基础版，5台左右选旗舰版，20台或团队使用选团队版。",
+          "AI_FAQ_ANSWER_2": "万里云支持订阅导入方式，具体格式与步骤可参考对应客户端的接入文档进行配置。",
+          "AI_FAQ_ANSWER_3": "基础版每月100GB流量，适合轻度浏览；旗舰版每月300GB，适合日常视频与游戏；团队版每月1000GB，满足多设备大流量需求。",
+          "AI_FAQ_ANSWER_4": "三档套餐均提供月付与年付方案，年付价格更优惠，可按需选择计费周期。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化，适合对延迟敏感的游戏与实时应用，基础版使用普通线路节点池。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅导入。",
+          "AI_FAQ_QUESTION_1": "如何根据设备数量选择万里云套餐？",
+          "AI_FAQ_QUESTION_2": "万里云支持哪些订阅导入方式？",
+          "AI_FAQ_QUESTION_3": "不同套餐的每月流量有什么区别？",
+          "AI_FAQ_QUESTION_4": "万里云套餐可以按月或按年付费吗？",
+          "AI_FAQ_QUESTION_5": "游戏加速应该选择哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "huoshaoyunjichang.com",
+    "host": "huoshaoyunjichang.com"
+  },
+  "file_hashes": {
+    "index.html": "e7f3682cd8a4c3f892e4038ad15a1effc3de5849a44d10a262e210ec7a944133",
+    "sitemap.xml": "817432352ee86d0cb10c203cf98516edbad18e2082c652ad8807c792466a4f4f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c86e976460be754e8644e958c59eb86d6cb6cbc000317f18a1fd1ec4ae8fc045",
+    "robots.txt": "2c5ffce6eb1891746c8c623c60f6f063a02f8672da04f7c5ddc694ecd67d06be",
+    "f38301be75a83cc87551d213c36a857c.txt": "1428ffd21a3ac7075a5c96155b1ad46d6d262076526dfdd2ff6d39c23bd3f499"
+  },
+  "revision": "91eaf920d7f4b03edcd566478e27527678a25ec0fdb86998a4b54a61f85e1980"
+}
